@@ -1,0 +1,24 @@
+
+.container{
+	width:96%;
+	height:1000px;
+	padding-top: 10px;
+	margin: 0 auto;
+	border-style: solid;
+	border-color: rgb(1,1,1);
+	border-width: 6px;
+}
+.chart-container {
+	width:  50%;
+	height: 350px;
+	float: left;
+
+}
+.linegraphcontainer{
+	width:  73%;
+	height:150px;
+	padding-left: 200px;
+	float: left;
+
+}
+
