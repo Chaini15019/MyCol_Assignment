@@ -32,4 +32,6 @@ Basic Procedure:
   
   bacteria_chart : shows the doughnut shart showing the number of people affected by different types of bacteria.
   
+  *For the html file to work on chrome the "Allow-Control-Allow-Origin:* " extension can be installed on chrome.
+  
   
